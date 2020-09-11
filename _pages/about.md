@@ -7,5 +7,5 @@ I am a recent Chemical Engineering Graduate from Ryerson University.
 
 # <span style="color:rgb(104,92,121);font-size:1.25em;">Work History</span>
 
-# <span style="font-size:1em;">Enterprise Risk Management Student (co-op) | Ontario Power Generation | Jan 2019 - Aug 2019</span>
-# <span style="font-size:1em;">Program Management Senior Technical Student (co-op) | Toronto Hydro | Sep 2016 – Feb 2018; May 2018 – Aug 2018</span>
+# <span style="font-size:0.5em;">Enterprise Risk Management Student (co-op) | Ontario Power Generation | Jan 2019 - Aug 2019</span>
+# <span style="font-size:0.5em;">Program Management Senior Technical Student (co-op) | Toronto Hydro | Sep 2016 – Feb 2018; May 2018 – Aug 2018</span>
