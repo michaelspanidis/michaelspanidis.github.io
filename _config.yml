@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Michael Spanidis"
+title                    : "Home"
 title_separator          : "-"
 name                     : "Michael Spanidis"
 description              : "Portfolio"
@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Michael Spanidis"
   avatar           : "/images/headshot.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Portfolio"
+  bio              : "Chemical Engineer"
   location         : "Greater Toronto Area"
   email            : "michael.spanidis@ryerson.ca"
   uri              :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "michaelspanidis"
+  github           : # "michaelspanidis"
   gitlab           :
   google_plus      :
   keybase          :
