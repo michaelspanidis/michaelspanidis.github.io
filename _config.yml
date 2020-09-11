@@ -88,7 +88,7 @@ author:
   avatar           : "/images/headshot.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Portfolio"
   location         : "Greater Toronto Area"
-  email            :
+  email            : "michael.spanidis@ryerson.ca"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "michaelspanidis"
+  github           : # "michaelspanidis"
   gitlab           :
   google_plus      :
   keybase          :
