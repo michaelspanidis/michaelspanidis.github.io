@@ -49,6 +49,8 @@ staticman:
 reCaptcha:
   siteKey                :
   secret                 :
+atom_feed:
+  path                   : # blank (default) uses feed.xml
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 
@@ -107,7 +109,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "A"
   vine             :
   weibo            :
   xing             :
