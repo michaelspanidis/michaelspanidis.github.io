@@ -2,6 +2,7 @@
 title: <span style="color:rgb(172,108,130); font-size:1.25em;">About</span>
 permalink: /about/
 ---
+I am a recent chemical engineering graduate from Ryerson University. I have a passion for sustainability and an interest in the application of machine learning techniques to solve engineering problems.
 
 # <span style="color:rgb(104,92,121);">Education</span>
 Sep 2014 - Jun 2020
