@@ -3,14 +3,14 @@ title: <span style="color:rgb(172,108,130); font-size:1.25em;">About</span>
 permalink: /about/
 ---
 
-# <span style="color:rgb(104,92,121);font-size:1.25em;">Education</span>
+# <span style="color:rgb(104,92,121);">Education</span>
 Sep 2014 - Jun 2020
 :   **B Eng. Chemical Engineering (co-op)**; Ryerson University (Toronto, ON)
 
 Aug 2020
 :   **Data Science with R**; DataCamp (Informal Education)
 
-# <span style="color:rgb(104,92,121);font-size:1.25em;">Work history</span>
+# <span style="color:rgb(104,92,121);">Work history</span>
 Jan 2019 - Aug 2019
 :   **Enterprise Risk Management Student (co-op)**; Ontario Power Generation (Toronto, ON)
 
