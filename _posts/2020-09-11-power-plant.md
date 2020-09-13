@@ -1,8 +1,8 @@
 ---
 title: <span style="color:rgb(172,108,130); font-size:1.25em;">Design of a 1000MW Solar Thermal Power Plant in Canada</span>
 date: 2020-09-11
-tags: [thermal design, mechanical design, process design, sustainability]
-excerpt: "Thermal Design, Mechanical Design, Process Design, Sustainability"
+tags: [chemical Engineering]
+excerpt: "Chemical Engineering"
 mathjax: "true"
 ---
 # <span style="color:rgb(104,92,121);">About the project</span>
