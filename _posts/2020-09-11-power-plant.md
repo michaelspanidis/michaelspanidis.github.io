@@ -42,3 +42,7 @@ The project involved a variety of software and software packages.
 
 **The collector tower design schematic**:
 ![alt]({{ site.url }}{{ site.baseurl }}/images/capstone/tower.jpg)
+
+
+**The collector tower design schematic**:
+![alt]({{ site.url }}{{ site.baseurl }}/images/plastica/surface.jpg)
