@@ -31,14 +31,14 @@ The project involved a variety of software and software packages.
 
 # <span style="color:rgb(104,92,121);">Project screenshots</span>
 
-**A general process flow diagram**:
+**A general process flow diagram:**
 ![alt]({{ site.url }}{{ site.baseurl }}/images/capstone/process.jpg)
 
-**A map of the solar resource in Canada**:
+**A map of the solar resource in Canada:**
 ![alt]({{ site.url }}{{ site.baseurl }}/images/capstone/dni.jpg)
 
-**The reflector field layout design schematic**:
+**The reflector field layout design schematic:**
 ![alt]({{ site.url }}{{ site.baseurl }}/images/capstone/field.jpg)
 
-**The collector tower design schematic**:
+**The collector tower design schematic:**
 ![alt]({{ site.url }}{{ site.baseurl }}/images/capstone/tower.jpg)
