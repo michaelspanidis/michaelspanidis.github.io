@@ -1,7 +1,7 @@
 ---
 title: <span style="color:rgb(172,108,130); font-size:1.25em;">Design of a 1000MW Solar Thermal Power Plant in Canada</span>
 date: 2020-09-11
-tags: [chemical Engineering]
+tags: [chemical engineering]
 excerpt: "Chemical Engineering"
 mathjax: "true"
 ---
